@@ -50,7 +50,7 @@ Key Features of WhatsApp Web Online
 - Desktop notifications
 - Dark mode support
 
-Advantages of Using WhatsApp Web
+Advantages of Using WhatsApp Web Online
 ================================
 
 - **Improved Productivity**  
@@ -68,7 +68,7 @@ Advantages of Using WhatsApp Web
 - **Multi-Device Support**  
   Use up to **4 linked devices** without keeping your phone online.
 
-Limitations of WhatsApp Web
+Limitations of `GB Whatsapp <https://gbapps.blog/>`_ Web Online
 ===========================
 
 - No voice or video calling (available only on WhatsApp Desktop)
