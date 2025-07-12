@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Coinme Wallet'
+project = 'Whatsapp Web Online'
 copyright = '2025'
 author = 'Charles Smith'
 
